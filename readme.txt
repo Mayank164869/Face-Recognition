@@ -1,1 +1,1 @@
-hello papa is speaking and i love
+This is a Real Time Face Recoginition project using haarcascade file and Linear SVC Model in python with some custom snapchat filter
